@@ -8573,3 +8573,216 @@
 2024-06-17 11:15:38,635 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='library.localhost', user='Administrator') (library.localhost::fa49d89c-d9b9-46c3-b804-f0fd6fb16b8f)
 2024-06-17 11:15:38,759 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::fa49d89c-d9b9-46c3-b804-f0fd6fb16b8f)
 2024-06-17 11:15:38,759 Result is kept for 600 seconds
+2024-06-17 11:25:55,810 Worker rq:worker:6f183cd71d834f21835692ac590f1afd started with PID 9243, version 1.15.1
+2024-06-17 11:25:55,810 Subscribing to channel rq:pubsub:6f183cd71d834f21835692ac590f1afd
+2024-06-17 11:25:55,811 *** Listening on Users-vamsi-erpnext-mybench:short, Users-vamsi-erpnext-mybench:default, Users-vamsi-erpnext-mybench:long...
+2024-06-17 11:39:25,966 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 11:39:25,972 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 11:39:25,973 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 11:42:26,062 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: vamsikrishnaaketi@gmail.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='library.localhost', user='Administrator') (library.localhost::0d71a00b-0343-4cc0-aafc-32ce1c4a858b)
+2024-06-17 11:42:26,818 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::0d71a00b-0343-4cc0-aafc-32ce1c4a858b)
+2024-06-17 11:42:26,818 Result is kept for 600 seconds
+2024-06-17 11:42:26,824 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'vamsikrishnaaketi@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='library.localhost', user='Administrator') (library.localhost::8109d056-a289-496d-8b95-6cba9e9571bd)
+2024-06-17 11:42:27,023 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::8109d056-a289-496d-8b95-6cba9e9571bd)
+2024-06-17 11:42:27,023 Result is kept for 600 seconds
+2024-06-17 11:55:57,165 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 11:55:57,171 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 11:55:57,172 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 12:22:57,390 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 12:22:57,396 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 12:22:57,397 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 12:49:57,674 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 12:49:57,679 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 12:49:57,681 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 13:16:57,938 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 13:16:57,945 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 13:16:57,946 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 13:43:58,282 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 13:43:58,287 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 13:43:58,288 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 14:19:37,236 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 14:19:37,319 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 14:19:37,320 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 14:46:37,515 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 14:46:37,524 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 14:46:37,525 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 15:12:18,029 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 15:12:18,033 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 15:12:18,035 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 15:27:24,437 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 15:27:24,448 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 15:27:24,449 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 15:42:49,131 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 15:42:49,215 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 15:42:49,217 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 15:58:13,235 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 15:58:13,319 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 15:58:13,320 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 16:25:15,031 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 16:25:15,035 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 16:25:15,036 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 16:51:29,085 Worker 6f183cd71d834f21835692ac590f1afd [PID 9243]: warm shut down requested
+2024-06-17 16:51:29,097 Unsubscribing from channel rq:pubsub:6f183cd71d834f21835692ac590f1afd
+2024-06-17 16:51:32,899 Worker rq:worker:398b09fd3ff34c098812d9130acd9df9 started with PID 28397, version 1.15.1
+2024-06-17 16:51:32,899 Subscribing to channel rq:pubsub:398b09fd3ff34c098812d9130acd9df9
+2024-06-17 16:51:32,900 *** Listening on Users-vamsi-erpnext-mybench:short, Users-vamsi-erpnext-mybench:default, Users-vamsi-erpnext-mybench:long...
+2024-06-17 16:51:32,900 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 16:51:32,900 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 16:51:32,901 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 17:18:33,144 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 17:18:33,148 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 17:18:33,149 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 17:45:33,342 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 17:45:33,346 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 17:45:33,347 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 18:12:33,511 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 18:12:33,517 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 18:12:33,519 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 18:39:33,812 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 18:39:33,818 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 18:39:33,819 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 19:00:40,923 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-17 19:00:40,931 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-17 19:00:40,932 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-17 19:13:22,193 Worker 398b09fd3ff34c098812d9130acd9df9 [PID 28397]: warm shut down requested
+2024-06-17 19:13:22,201 Unsubscribing from channel rq:pubsub:398b09fd3ff34c098812d9130acd9df9
+2024-06-18 12:03:09,259 Worker rq:worker:14f2a4b2466042ff91c50b241dc96bbf started with PID 10024, version 1.15.1
+2024-06-18 12:03:09,259 Subscribing to channel rq:pubsub:14f2a4b2466042ff91c50b241dc96bbf
+2024-06-18 12:03:09,259 *** Listening on Users-vamsi-erpnext-mybench:short, Users-vamsi-erpnext-mybench:default, Users-vamsi-erpnext-mybench:long...
+2024-06-18 12:03:09,260 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-18 12:03:09,261 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-18 12:03:09,261 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-18 12:04:09,448 Users-vamsi-erpnext-mybench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.integrations.doctype.google_drive.google_drive.daily_backup)
+2024-06-18 12:04:09,867 Users-vamsi-erpnext-mybench:long: Job OK (library.localhost::scheduled_job::frappe.integrations.doctype.google_drive.google_drive.daily_backup)
+2024-06-18 12:04:09,867 Result is kept for 600 seconds
+2024-06-18 12:04:09,883 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_re..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_repeat_as_completed)
+2024-06-18 12:04:10,319 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_repeat_as_completed)
+2024-06-18 12:04:10,319 Result is kept for 600 seconds
+2024-06-18 12:04:10,324 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_repeat_entry)
+2024-06-18 12:04:10,538 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_repeat_entry)
+2024-06-18 12:04:10,538 Result is kept for 600 seconds
+2024-06-18 12:04:10,541 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_contacts.google_contacts.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.integrations.doctype.google_contacts.google_contacts.sync)
+2024-06-18 12:04:10,775 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.integrations.doctype.google_contacts.google_contacts.sync)
+2024-06-18 12:04:10,775 Result is kept for 600 seconds
+2024-06-18 12:04:10,779 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.social.doctype.energy_point_settings.energy_point_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.social.doctype.energy_point_settings.energy_point_settings.allocate_review_points)
+2024-06-18 12:04:10,974 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.social.doctype.energy_point_settings.energy_point_settings.allocate_review_points)
+2024-06-18 12:04:10,975 Result is kept for 600 seconds
+2024-06-18 12:04:10,979 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_daily_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.desk.form.document_follow.send_daily_updates)
+2024-06-18 12:04:11,140 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.desk.form.document_follow.send_daily_updates)
+2024-06-18 12:04:11,140 Result is kept for 600 seconds
+2024-06-18 12:04:11,143 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.personal_data_deletion_request.persona..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record)
+2024-06-18 12:04:11,308 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record)
+2024-06-18 12:04:11,309 Result is kept for 600 seconds
+2024-06-18 12:04:11,312 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.notification.notification.trigger_daily_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.email.doctype.notification.notification.trigger_daily_alerts)
+2024-06-18 12:04:11,470 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.email.doctype.notification.notification.trigger_daily_alerts)
+2024-06-18 12:04:11,470 Result is kept for 600 seconds
+2024-06-18 12:04:11,473 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.sessions.clear_expired_sessions'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.sessions.clear_expired_sessions)
+2024-06-18 12:04:11,630 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.sessions.clear_expired_sessions)
+2024-06-18 12:04:11,631 Result is kept for 600 seconds
+2024-06-18 12:04:11,634 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.doctype.event.event.send_event_digest'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.desk.doctype.event.event.send_event_digest)
+2024-06-18 12:04:11,800 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.desk.doctype.event.event.send_event_digest)
+2024-06-18 12:04:11,800 Result is kept for 600 seconds
+2024-06-18 12:04:11,804 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.notifications.clear_notifications'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.desk.notifications.clear_notifications)
+2024-06-18 12:04:11,959 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.desk.notifications.clear_notifications)
+2024-06-18 12:04:11,959 Result is kept for 600 seconds
+2024-06-18 12:04:11,962 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.personal_data_deletion_request.persona..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request)
+2024-06-18 12:04:12,137 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request)
+2024-06-18 12:04:12,137 Result is kept for 600 seconds
+2024-06-18 12:04:12,140 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.newsletter.newsletter.send_scheduled_ema..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.email.doctype.newsletter.newsletter.send_scheduled_email)
+2024-06-18 12:04:12,341 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.email.doctype.newsletter.newsletter.send_scheduled_email)
+2024-06-18 12:04:12,342 Result is kept for 600 seconds
+2024-06-18 12:04:12,345 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2024-06-18 12:04:12,590 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2024-06-18 12:04:12,590 Result is kept for 600 seconds
+2024-06-18 12:04:12,593 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_hourly_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.desk.form.document_follow.send_hourly_updates)
+2024-06-18 12:04:12,750 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.desk.form.document_follow.send_hourly_updates)
+2024-06-18 12:04:12,750 Result is kept for 600 seconds
+2024-06-18 12:04:12,753 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.deferred_insert.save_to_db'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.deferred_insert.save_to_db)
+2024-06-18 12:04:12,937 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.deferred_insert.save_to_db)
+2024-06-18 12:04:12,938 Result is kept for 600 seconds
+2024-06-18 12:04:12,941 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.page.backups.backups.delete_downloadable_backups'..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.desk.page.backups.backups.delete_downloadable_backups)
+2024-06-18 12:04:13,099 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.desk.page.backups.backups.delete_downloadable_backups)
+2024-06-18 12:04:13,099 Result is kept for 600 seconds
+2024-06-18 12:04:13,102 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.user_settings.sync_user_settings'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.model.utils.user_settings.sync_user_settings)
+2024-06-18 12:04:13,259 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.model.utils.user_settings.sync_user_settings)
+2024-06-18 12:04:13,259 Result is kept for 600 seconds
+2024-06-18 12:04:13,262 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.link_count.update_link_count'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.model.utils.link_count.update_link_count)
+2024-06-18 12:04:13,416 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.model.utils.link_count.update_link_count)
+2024-06-18 12:04:13,417 Result is kept for 600 seconds
+2024-06-18 12:04:13,420 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.reminder.reminder.send_reminders'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.automation.doctype.reminder.reminder.send_reminders)
+2024-06-18 12:04:13,581 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.automation.doctype.reminder.reminder.send_reminders)
+2024-06-18 12:04:13,581 Result is kept for 600 seconds
+2024-06-18 12:04:13,584 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.monitor.flush)
+2024-06-18 12:04:13,729 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.monitor.flush)
+2024-06-18 12:04:13,729 Result is kept for 600 seconds
+2024-06-18 12:04:13,732 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.utils.global_search.sync_global_search)
+2024-06-18 12:04:13,875 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.utils.global_search.sync_global_search)
+2024-06-18 12:04:13,875 Result is kept for 600 seconds
+2024-06-18 12:04:13,878 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2024-06-18 12:04:14,049 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2024-06-18 12:04:14,049 Result is kept for 600 seconds
+2024-06-18 12:04:14,052 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.email.queue.flush)
+2024-06-18 12:04:14,230 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.email.queue.flush)
+2024-06-18 12:04:14,230 Result is kept for 600 seconds
+2024-06-18 12:04:14,234 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.core.doctype.log_settings.log_settings.run_log_clean_u..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.core.doctype.log_settings.log_settings.run_log_clean_up)
+2024-06-18 12:04:14,549 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.core.doctype.log_settings.log_settings.run_log_clean_up)
+2024-06-18 12:04:14,549 Result is kept for 600 seconds
+2024-06-18 12:04:14,552 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.core.doctype.prepared_report.prepared_report.expire_st..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.core.doctype.prepared_report.prepared_report.expire_stalled_report)
+2024-06-18 12:04:14,697 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.core.doctype.prepared_report.prepared_report.expire_stalled_report)
+2024-06-18 12:04:14,697 Result is kept for 600 seconds
+2024-06-18 12:04:14,701 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2024-06-18 12:04:14,902 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2024-06-18 12:04:14,902 Result is kept for 600 seconds
+2024-06-18 12:04:14,905 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.twofactor.delete_all_barcodes_for_users'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2024-06-18 12:04:15,050 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2024-06-18 12:04:15,050 Result is kept for 600 seconds
+2024-06-18 12:04:15,054 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.web_page.web_page.check_publish_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2024-06-18 12:04:15,248 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2024-06-18 12:04:15,248 Result is kept for 600 seconds
+2024-06-18 12:04:15,251 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.oauth.delete_oauth2_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.oauth.delete_oauth2_data)
+2024-06-18 12:04:15,425 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::scheduled_job::frappe.oauth.delete_oauth2_data)
+2024-06-18 12:04:15,425 Result is kept for 600 seconds
+2024-06-18 12:04:15,428 Users-vamsi-erpnext-mybench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='library.localhost', user='Administrator') (library.localhost::9d7af5ed-c818-4c62-8d66-57909ca767dd)
+2024-06-18 12:04:15,550 Users-vamsi-erpnext-mybench:default: Job OK (library.localhost::9d7af5ed-c818-4c62-8d66-57909ca767dd)
+2024-06-18 12:04:15,550 Result is kept for 600 seconds
+2024-06-18 12:04:15,553 Users-vamsi-erpnext-mybench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.auto_email_report.auto_email_report.send..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.email.doctype.auto_email_report.auto_email_report.send_daily)
+2024-06-18 12:04:15,969 Users-vamsi-erpnext-mybench:long: Job OK (library.localhost::scheduled_job::frappe.email.doctype.auto_email_report.auto_email_report.send_daily)
+2024-06-18 12:04:15,970 Result is kept for 600 seconds
+2024-06-18 12:04:15,973 Users-vamsi-erpnext-mybench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily)
+2024-06-18 12:04:16,329 Users-vamsi-erpnext-mybench:long: Job OK (library.localhost::scheduled_job::frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily)
+2024-06-18 12:04:16,329 Result is kept for 600 seconds
+2024-06-18 12:04:16,332 Users-vamsi-erpnext-mybench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.utils.change_log.check_for_update)
+2024-06-18 12:04:17,398 Users-vamsi-erpnext-mybench:long: Job OK (library.localhost::scheduled_job::frappe.utils.change_log.check_for_update)
+2024-06-18 12:04:17,398 Result is kept for 600 seconds
+2024-06-18 12:04:17,402 Users-vamsi-erpnext-mybench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='library.localhost', user='Administrator') (library.localhost::scheduled_job::frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_daily)
+2024-06-18 12:04:17,935 Users-vamsi-erpnext-mybench:long: Job OK (library.localhost::scheduled_job::frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_daily)
+2024-06-18 12:04:17,936 Result is kept for 600 seconds
+2024-06-18 12:31:18,168 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-18 12:31:18,173 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-18 12:31:18,175 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-18 12:58:18,466 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-18 12:58:18,471 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-18 12:58:18,472 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-18 13:40:06,864 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-18 13:40:06,873 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-18 13:40:06,874 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-18 14:11:15,006 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-18 14:11:15,023 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-18 14:11:15,024 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-18 14:38:15,387 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-18 14:38:15,394 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-18 14:38:15,395 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-18 15:05:15,719 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-18 15:05:15,724 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-18 15:05:15,726 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-18 15:32:25,086 Worker rq:worker:2d960a7534a94b40ba4c37a6ceedc08d started with PID 23509, version 1.15.1
+2024-06-18 15:32:25,086 Subscribing to channel rq:pubsub:2d960a7534a94b40ba4c37a6ceedc08d
+2024-06-18 15:32:25,086 *** Listening on Users-vamsi-erpnext-mybench:short, Users-vamsi-erpnext-mybench:default, Users-vamsi-erpnext-mybench:long...
+2024-06-18 15:32:25,087 Cleaning registries for queue: Users-vamsi-erpnext-mybench:short
+2024-06-18 15:32:25,088 Cleaning registries for queue: Users-vamsi-erpnext-mybench:default
+2024-06-18 15:32:25,088 Cleaning registries for queue: Users-vamsi-erpnext-mybench:long
+2024-06-18 15:32:50,139 Worker 2d960a7534a94b40ba4c37a6ceedc08d [PID 23509]: warm shut down requested
+2024-06-18 15:32:50,147 Unsubscribing from channel rq:pubsub:2d960a7534a94b40ba4c37a6ceedc08d
+2024-06-18 15:33:02,975 Worker rq:worker:fd81a97cbad944e79cec880ee9e4831f started with PID 23752, version 1.15.1
+2024-06-18 15:33:02,975 Subscribing to channel rq:pubsub:fd81a97cbad944e79cec880ee9e4831f
+2024-06-18 15:33:02,975 *** Listening on Users-vamsi-erpnext-mybench:short, Users-vamsi-erpnext-mybench:default, Users-vamsi-erpnext-mybench:long...
